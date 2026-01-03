@@ -1,0 +1,43 @@
+Deep Learning · Cybersecurity · Explainable AI
+
+Overview
+
+This project focuses on building a deep-learning-based Intrusion Detection System (IDS) to identify malicious network traffic and abnormal behavior in a distributed environment. The system emphasizes both detection accuracy and interpretability to support reliable security decision-making.
+
+Key Features
+
+Classifies network traffic as benign or malicious using deep learning models
+
+Detects anomalies by analyzing traffic patterns and attack indicators
+
+Integrates Explainable AI techniques to interpret model predictions
+
+Improves transparency and trust in automated security alerts
+
+What I Built
+
+Designed and implemented a deep learning pipeline for intrusion detection on network traffic data
+
+Analyzed network behavior to identify anomalies, attack signatures, and threat patterns
+
+Integrated SHAP (Explainable AI) to explain model outputs and highlight influential features
+
+Evaluated model performance and iteratively refined detection logic
+
+Technical Learnings
+
+Practical exposure to cybersecurity concepts, including anomaly detection and threat classification
+
+Improved understanding of distributed systems behavior and system reliability
+
+Hands-on experience balancing model accuracy with interpretability in security-critical systems
+
+Tech Stack
+
+Languages: Python
+
+Concepts: Deep Learning, Anomaly Detection, Explainable AI
+
+Tools & Libraries: SHAP, ML/DL frameworks
+
+Domain: Cybersecurity, Network Traffic Analysis
